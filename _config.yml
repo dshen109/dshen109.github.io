@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : ""
   avatar           : "profile.png"
-  bio              : "Graduate student @ MIT. I love unionized solutions."
+  bio              : "Graduate student @ MIT working in power systems."
   location         : "Cambridge, MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=E0tnKyYAAAAJ"
-  email            :
+  email            : "oski@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "zombocom"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
